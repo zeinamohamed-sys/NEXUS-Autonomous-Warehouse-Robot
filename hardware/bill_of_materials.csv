@@ -1,0 +1,11 @@
+Component,Quantity,Estimated Unit Price (EGP),Estimated Total (EGP),Notes
+ESP32 DevKit development board,1,280,280,Indicative allowance; verify exact board and supplier
+TB6612FNG dual motor driver,1,160,160,Verify module authenticity and current rating
+2WD chassis with 2 DC geared motors and caster wheel,1,300,300,Choose motor voltage and gear ratio for payload
+5-channel digital IR line sensor,1,220,220,Check 3.3V compatibility and output polarity
+HC-SR04 ultrasonic sensor,1,45,45,Use level shifting on ECHO
+Protected rechargeable battery pack and holder,1,350,350,Final chemistry/configuration must match motor ratings
+Voltage regulator and power protection allowance,1,150,150,Select after confirming battery and ESP32 requirements
+Switch, wires, connectors and fasteners,1,150,150,Assembly allowance
+Prototype board and mounting hardware,1,65,65,Assembly allowance
+3D-printed tray, sensor bracket and electronics cover,1,350,350,Preliminary PLA / printing service estimate
